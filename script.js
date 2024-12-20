@@ -1,6 +1,4 @@
 const root = document.getElementById('root');
-
-
 const navbar = document.createElement('nav');
 navbar.classList.add('navbar');
 navbar.id = 'navbar';
